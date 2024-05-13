@@ -127,7 +127,7 @@ function L_1_:CreateWindow(L_26_arg0, L_27_arg1)
 		Position = UDim2.new(0.093952976167202, 0, 0.09986995160579681, 0),
 		Size = UDim2.new(0, 35, 0, 35),
 		ZIndex = 2,
-		Image = "rbxassetid://8547236654",
+		Image = "rbxassetid://3926305904",
 		ImageRectOffset = Vector2.new(324, 764),
 		ImageRectSize = Vector2.new(36, 36),
 	})
@@ -374,7 +374,7 @@ ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 181)),
 	})
 	local L_70_ = createObject("UIGradient", {
 		Parent = L_67_,
-ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 181)),
+                        ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 181)),
 			ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 49, 216))
 		},
 	})
