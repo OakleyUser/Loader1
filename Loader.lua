@@ -266,8 +266,8 @@ function L_1_:CreateWindow(L_26_arg0, L_27_arg1)
 	local L_56_ = createObject("UIGradient", {
 		Parent = L_53_,
 		Color = ColorSequence.new{
-			ColorSequenceKeypoint.new(0.00, Color3.fromRGB(1, 180, 213)),
-			ColorSequenceKeypoint.new(1.00, Color3.fromRGB(3, 227, 122))
+ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 181)),
+			ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 49, 216))
 		},
 	})
 	local L_57_ = createObject("ImageButton", {
@@ -317,8 +317,8 @@ function L_1_:CreateWindow(L_26_arg0, L_27_arg1)
 	local L_62_ = createObject("UIGradient", {
 		Parent = L_59_,
 		Color = ColorSequence.new{
-			ColorSequenceKeypoint.new(0.00, Color3.fromRGB(1, 180, 213)),
-			ColorSequenceKeypoint.new(1.00, Color3.fromRGB(3, 227, 122))
+ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 181)),
+			ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 49, 216))
 		},
 		Enabled = false,
 	})
@@ -347,8 +347,8 @@ function L_1_:CreateWindow(L_26_arg0, L_27_arg1)
 	local L_66_ = createObject("UIGradient", {
 		Parent = L_63_,
 		Color = ColorSequence.new{
-			ColorSequenceKeypoint.new(0.00, Color3.fromRGB(1, 180, 213)),
-			ColorSequenceKeypoint.new(1.00, Color3.fromRGB(3, 227, 122))
+ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 181)),
+			ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 49, 216))
 		},
 		Enabled = false,
 	})
@@ -374,9 +374,8 @@ function L_1_:CreateWindow(L_26_arg0, L_27_arg1)
 	})
 	local L_70_ = createObject("UIGradient", {
 		Parent = L_67_,
-		Color = ColorSequence.new{
-			ColorSequenceKeypoint.new(0.00, Color3.fromRGB(213, 83, 83)),
-			ColorSequenceKeypoint.new(1.00, Color3.fromRGB(227, 34, 34))
+ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 181)),
+			ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 49, 216))
 		},
 	})
 	local L_71_ = createObject("TextLabel", {
@@ -464,16 +463,16 @@ function L_1_:CreateWindow(L_26_arg0, L_27_arg1)
 		local L_80_ = createObject("UIGradient", {
 			Parent = L_79_,
 			Color = ColorSequence.new{
-				ColorSequenceKeypoint.new(0.00, Color3.fromRGB(1, 180, 213)),
-				ColorSequenceKeypoint.new(1.00, Color3.fromRGB(3, 227, 122))
+ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 181)),
+			ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 49, 216))
 			},
 		})
 		local L_81_ = createObject("UIGradient", {
 			Parent = L_76_,
 			Enabled = false,
 			Color = ColorSequence.new{
-				ColorSequenceKeypoint.new(0.00, Color3.fromRGB(1, 180, 213)),
-				ColorSequenceKeypoint.new(1.00, Color3.fromRGB(3, 227, 122))
+ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 181)),
+			ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 49, 216))
 			},
 		})
 		local L_82_ = createObject("ImageButton", {
@@ -507,8 +506,8 @@ function L_1_:CreateWindow(L_26_arg0, L_27_arg1)
 		local L_84_ = createObject("UIGradient", {
 			Parent = L_82_,
 			Color = ColorSequence.new{
-				ColorSequenceKeypoint.new(0.00, Color3.fromRGB(1, 180, 213)),
-				ColorSequenceKeypoint.new(1.00, Color3.fromRGB(3, 227, 122))
+ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 181)),
+			ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 49, 216))
 			},
 		})
 		local function L_85_func()
